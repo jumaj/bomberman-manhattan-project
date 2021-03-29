@@ -1,0 +1,1011 @@
+2021-03-17 10:40:05,880 [6_OMP_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-17 10:40:05,881 [6_OMP_agent_code] INFO: Setting up model from scratch.
+2021-03-17 10:40:05,881 [6_OMP_agent_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-17 10:40:05,881 [6_OMP_agent_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-17 10:40:05,881 [6_OMP_agent_wrapper] DEBUG: Got result from callback#setup_training in 0.000s.
+2021-03-17 10:40:05,982 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:05,983 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:05,983 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:05,983 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:05,983 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:05,983 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:05,983 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,083 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,083 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2021-03-17 10:40:06,084 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,084 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,084 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,085 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,085 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,188 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,188 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-17 10:40:06,189 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,189 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,189 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,189 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,190 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,288 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,288 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-17 10:40:06,289 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,289 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,289 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,289 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,289 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,388 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,389 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-17 10:40:06,389 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,389 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,389 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,389 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:06,390 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,491 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,491 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 6
+2021-03-17 10:40:06,492 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:06,492 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,493 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,493 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,493 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,592 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,592 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 7
+2021-03-17 10:40:06,592 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:06,592 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,593 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,593 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:06,593 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,692 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,692 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-17 10:40:06,693 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,693 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,693 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,693 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,693 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,797 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,797 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 9
+2021-03-17 10:40:06,798 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:06,798 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,798 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,799 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,799 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,898 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,898 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-17 10:40:06,898 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,898 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,898 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,898 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,899 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:06,998 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:06,998 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-17 10:40:06,999 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:06,999 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:06,999 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:06,999 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:06,999 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,099 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,099 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2021-03-17 10:40:07,100 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:07,100 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,100 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,100 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:07,100 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,199 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,200 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 13
+2021-03-17 10:40:07,200 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:07,200 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,200 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,200 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:07,201 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,300 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,300 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2021-03-17 10:40:07,301 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:07,301 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,301 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,301 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:07,301 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,402 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,402 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 15
+2021-03-17 10:40:07,403 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:07,403 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,403 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,403 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:07,404 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,503 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,503 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 16
+2021-03-17 10:40:07,503 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:07,503 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,504 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,504 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:07,504 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,603 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,603 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2021-03-17 10:40:07,604 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:07,604 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,604 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,604 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:07,604 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,703 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,704 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 18
+2021-03-17 10:40:07,704 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:07,704 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,704 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,704 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:07,705 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,804 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,804 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 19
+2021-03-17 10:40:07,805 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:07,805 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,805 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,805 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:07,806 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:07,905 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:07,905 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2021-03-17 10:40:07,905 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:07,905 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:07,906 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:07,906 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:07,906 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,005 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,005 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 21
+2021-03-17 10:40:08,005 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:08,006 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,006 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,006 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:08,006 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,105 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,105 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 22
+2021-03-17 10:40:08,105 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,106 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,106 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,106 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:08,106 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,205 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,205 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 23
+2021-03-17 10:40:08,206 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,206 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,206 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,206 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:08,206 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,306 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,306 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2021-03-17 10:40:08,306 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,306 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,306 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,307 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:08,307 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,406 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,406 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2021-03-17 10:40:08,407 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,407 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,407 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,407 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:08,407 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,507 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,507 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 26
+2021-03-17 10:40:08,508 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:08,508 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,508 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,508 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:08,508 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,607 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,607 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2021-03-17 10:40:08,608 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,608 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,608 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,608 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:08,609 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,708 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,708 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 28
+2021-03-17 10:40:08,709 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,709 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,709 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,710 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:08,710 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,808 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:08,809 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 29
+2021-03-17 10:40:08,809 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:08,809 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:08,810 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:08,810 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:08,810 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:08,811 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:08,811 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:08,811 [6_OMP_agent_code] INFO: Awarded -25 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:08,882 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.071s.
+2021-03-17 10:40:13,054 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,054 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:13,054 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:13,055 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,055 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,055 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,055 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:13,154 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,154 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 2
+2021-03-17 10:40:13,155 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:13,155 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,155 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,155 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,156 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:13,255 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,255 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 3
+2021-03-17 10:40:13,255 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:13,255 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,256 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,256 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,256 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:13,355 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,355 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 4
+2021-03-17 10:40:13,356 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:13,356 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,356 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,356 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,357 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:13,456 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,457 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 5
+2021-03-17 10:40:13,457 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:13,457 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,458 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,458 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:13,458 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:13,557 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,557 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 6
+2021-03-17 10:40:13,557 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:13,557 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,558 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,558 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,558 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:13,657 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,657 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 7
+2021-03-17 10:40:13,658 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:13,658 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,658 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,658 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,659 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:13,765 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,766 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-17 10:40:13,766 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:13,766 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,767 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,767 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,768 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:13,863 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,863 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 9
+2021-03-17 10:40:13,864 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:13,864 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,864 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,864 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:13,864 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:13,963 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:13,963 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-17 10:40:13,964 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:13,964 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:13,964 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:13,964 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:13,965 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,069 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,069 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-17 10:40:14,070 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:14,070 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,070 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,070 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,071 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,169 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,169 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2021-03-17 10:40:14,170 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:14,170 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,170 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,170 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:14,170 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:14,270 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,270 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 13
+2021-03-17 10:40:14,270 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:14,270 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,270 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,270 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,271 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,370 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,370 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2021-03-17 10:40:14,370 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:14,371 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,371 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,371 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,371 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,470 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,471 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 15
+2021-03-17 10:40:14,471 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:14,471 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,471 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,471 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,472 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,571 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,571 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 16
+2021-03-17 10:40:14,571 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:14,571 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,571 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,572 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:14,572 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:14,675 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,675 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 17
+2021-03-17 10:40:14,676 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:14,676 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,676 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,677 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:14,677 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:14,776 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,776 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 18
+2021-03-17 10:40:14,776 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:14,776 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,776 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,777 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,777 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,876 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,876 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2021-03-17 10:40:14,877 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:14,877 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,877 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,877 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,878 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,984 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:14,984 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2021-03-17 10:40:14,985 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:14,985 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:14,985 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:14,985 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:14,987 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:14,987 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:14,987 [6_OMP_agent_code] DEBUG: Encountered event(s) 'WAITED', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:14,988 [6_OMP_agent_code] INFO: Awarded -10.700000000000003 for events WAITED, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:15,038 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.050s.
+2021-03-17 10:40:20,917 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:20,917 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:20,918 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:20,918 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:20,918 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:20,918 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:20,918 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,018 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,018 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 2
+2021-03-17 10:40:21,018 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:21,019 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,019 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,019 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,019 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,118 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,118 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 3
+2021-03-17 10:40:21,119 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:21,119 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,119 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,119 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,120 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,219 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,219 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-17 10:40:21,219 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:21,219 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,219 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,220 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,220 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,319 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,319 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-17 10:40:21,320 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:21,320 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,320 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,320 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,321 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,419 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,419 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-17 10:40:21,420 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:21,420 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,420 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,421 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:21,421 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:21,520 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,520 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 7
+2021-03-17 10:40:21,521 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:21,521 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,521 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,521 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:21,521 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:21,620 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,620 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 8
+2021-03-17 10:40:21,620 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:21,621 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,621 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,621 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,621 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,720 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,721 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 9
+2021-03-17 10:40:21,721 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:21,721 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,722 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,722 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,722 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,820 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:21,821 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 10
+2021-03-17 10:40:21,821 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:21,821 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:21,821 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:21,822 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:21,822 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:21,823 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:21,823 [6_OMP_agent_code] DEBUG: Encountered event(s) 'WAITED', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:21,823 [6_OMP_agent_code] INFO: Awarded -20.7 for events WAITED, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:21,855 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.032s.
+2021-03-17 10:40:23,227 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,227 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:23,227 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:23,227 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:23,227 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,228 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,228 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:23,327 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,328 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 2
+2021-03-17 10:40:23,328 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:23,328 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,329 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,329 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,329 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:23,428 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,428 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 3
+2021-03-17 10:40:23,429 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:23,429 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,429 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,429 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,430 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:23,528 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,528 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-17 10:40:23,529 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:23,529 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,529 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,529 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:23,530 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:23,631 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,631 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-17 10:40:23,632 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:23,632 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,632 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,632 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,633 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:23,732 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,732 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 6
+2021-03-17 10:40:23,733 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:23,733 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,733 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,733 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,734 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:23,832 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,832 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 7
+2021-03-17 10:40:23,833 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:23,833 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,833 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,833 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,834 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:23,935 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:23,935 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-17 10:40:23,936 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:23,936 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:23,936 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:23,936 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:23,937 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,035 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,036 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 9
+2021-03-17 10:40:24,036 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:24,036 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,036 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,036 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,037 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,136 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,136 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-17 10:40:24,137 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,137 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,137 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,137 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,138 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,243 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,244 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 11
+2021-03-17 10:40:24,244 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:24,244 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,244 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,244 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,245 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,342 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,342 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 12
+2021-03-17 10:40:24,342 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:24,342 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,343 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,343 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:24,343 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:24,442 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,442 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 13
+2021-03-17 10:40:24,443 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,443 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,443 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,443 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,444 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,543 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,543 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2021-03-17 10:40:24,547 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,547 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-17 10:40:24,547 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,548 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,548 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,643 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,643 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 15
+2021-03-17 10:40:24,643 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,644 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:24,644 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,644 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,644 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:24,743 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,744 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 16
+2021-03-17 10:40:24,744 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,744 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,744 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,744 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,745 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:24,849 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,849 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2021-03-17 10:40:24,850 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,850 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,850 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,850 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:24,851 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:24,949 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:24,949 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 18
+2021-03-17 10:40:24,950 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:24,950 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:24,950 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:24,950 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:24,950 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,049 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,050 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2021-03-17 10:40:25,050 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:25,050 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,050 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,050 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:25,051 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,157 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,157 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2021-03-17 10:40:25,158 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:25,158 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,158 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,158 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:25,159 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,255 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,255 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 21
+2021-03-17 10:40:25,256 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:25,256 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,256 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,256 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:25,257 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,356 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,356 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 22
+2021-03-17 10:40:25,356 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:25,356 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,357 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,357 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:25,357 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:25,456 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,462 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 23
+2021-03-17 10:40:25,462 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:25,462 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,467 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,467 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:25,468 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,557 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,557 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2021-03-17 10:40:25,557 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:25,557 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,558 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,558 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:25,558 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:25,657 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,657 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2021-03-17 10:40:25,658 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:25,658 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,658 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,658 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:25,659 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,757 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:25,758 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 26
+2021-03-17 10:40:25,758 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:25,758 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:25,758 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:25,759 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:25,759 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:25,760 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:25,760 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'COIN_FOUND', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:25,761 [6_OMP_agent_code] INFO: Awarded -20 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, COIN_FOUND, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:25,836 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.076s.
+2021-03-17 10:40:26,258 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:26,259 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:26,259 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:26,259 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:26,259 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:26,259 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:26,260 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:26,359 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:26,359 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 2
+2021-03-17 10:40:26,359 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:26,360 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:26,360 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:26,360 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:26,360 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:26,461 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:26,461 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 3
+2021-03-17 10:40:26,462 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:26,462 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:26,462 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:26,462 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:26,463 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:26,562 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:26,562 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-17 10:40:26,563 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:26,563 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:26,563 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:26,563 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:26,564 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:26,662 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:26,662 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 5
+2021-03-17 10:40:26,663 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:26,663 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:26,663 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:26,663 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:26,664 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:26,763 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:26,763 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-17 10:40:26,763 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:26,764 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:26,764 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:26,764 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:26,764 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:26,765 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:26,765 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:26,765 [6_OMP_agent_code] INFO: Awarded -25 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:26,787 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.022s.
+2021-03-17 10:40:27,265 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,265 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:27,265 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:27,265 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:27,265 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,265 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,266 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:27,365 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,365 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 2
+2021-03-17 10:40:27,366 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:27,366 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,366 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,366 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,367 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:27,465 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,465 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-17 10:40:27,466 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:27,466 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,466 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,466 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,467 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:27,566 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,566 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 4
+2021-03-17 10:40:27,566 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:27,566 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,567 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,567 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:27,567 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:27,666 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,666 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 5
+2021-03-17 10:40:27,667 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:27,667 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,667 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,667 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,668 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:27,766 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,767 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED' in step 6
+2021-03-17 10:40:27,767 [6_OMP_agent_code] INFO: Awarded 24.9 for events MOVED_LEFT, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, PLACEHOLDER
+2021-03-17 10:40:27,767 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,767 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,767 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,768 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:27,867 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,867 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-17 10:40:27,867 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:27,867 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,868 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,868 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,868 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:27,967 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:27,967 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 8
+2021-03-17 10:40:27,968 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:27,968 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:27,968 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:27,968 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:27,969 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:28,068 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:28,068 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 9
+2021-03-17 10:40:28,068 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:28,069 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:28,069 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:28,069 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:28,069 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:28,168 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:28,168 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-17 10:40:28,169 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:28,169 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:28,169 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:28,169 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:28,170 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:28,268 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:28,268 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 11
+2021-03-17 10:40:28,269 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:28,269 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:28,269 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:28,269 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:28,269 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:28,270 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:28,270 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:28,270 [6_OMP_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:28,301 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.031s.
+2021-03-17 10:40:28,972 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:28,972 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:28,972 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:28,973 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:28,973 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:28,973 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:28,973 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:29,072 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,072 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 2
+2021-03-17 10:40:29,073 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:29,073 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,073 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,073 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,074 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:29,172 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,172 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 3
+2021-03-17 10:40:29,173 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:29,173 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,173 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,173 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,174 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:29,273 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,273 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 4
+2021-03-17 10:40:29,273 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:29,273 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,273 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,273 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,274 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:29,373 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,373 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-17 10:40:29,373 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:29,374 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,374 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,374 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:29,374 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:29,478 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,479 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 6
+2021-03-17 10:40:29,482 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:29,482 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-17 10:40:29,482 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,482 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:29,483 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:29,579 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,579 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 7
+2021-03-17 10:40:29,580 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:29,580 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,580 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,580 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,580 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:29,680 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,680 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-17 10:40:29,680 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:29,680 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,681 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,681 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,681 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:29,784 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,784 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 9
+2021-03-17 10:40:29,785 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:29,785 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:29,785 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,785 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,786 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:29,881 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,881 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 10
+2021-03-17 10:40:29,881 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:29,881 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,882 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,882 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,882 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:29,981 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:29,981 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-17 10:40:29,982 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:29,982 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:29,982 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:29,982 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:29,983 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:30,082 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,082 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2021-03-17 10:40:30,083 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:30,087 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-17 10:40:30,087 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,087 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:30,087 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:30,182 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,182 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 13
+2021-03-17 10:40:30,183 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:30,183 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:30,183 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,183 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:30,183 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:30,184 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:30,184 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'COIN_FOUND', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:30,184 [6_OMP_agent_code] INFO: Awarded -10 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, COIN_FOUND, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:30,221 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.037s.
+2021-03-17 10:40:30,483 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,483 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:30,484 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:30,484 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:30,484 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,484 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:30,485 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:30,584 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,584 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2021-03-17 10:40:30,584 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:30,584 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:30,584 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,585 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:30,585 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:30,684 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,684 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 3
+2021-03-17 10:40:30,685 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:30,685 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:30,685 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,685 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:30,686 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:30,784 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,784 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-17 10:40:30,785 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:30,785 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:30,785 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,785 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:30,786 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:30,885 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,885 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 5
+2021-03-17 10:40:30,885 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-17 10:40:30,885 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:30,886 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,886 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:30,886 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:30,985 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:30,985 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 6
+2021-03-17 10:40:30,986 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:30,986 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:30,986 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:30,986 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:30,987 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:31,085 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,085 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 7
+2021-03-17 10:40:31,086 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:31,086 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,086 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,086 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,087 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:31,186 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,186 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-17 10:40:31,187 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:31,187 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,187 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,187 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,187 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:31,286 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,290 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 9
+2021-03-17 10:40:31,291 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-17 10:40:31,291 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,291 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,291 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,292 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:31,293 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:31,293 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:31,293 [6_OMP_agent_code] INFO: Awarded -25 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:31,340 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.047s.
+2021-03-17 10:40:31,588 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,588 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:31,588 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:31,589 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-17 10:40:31,589 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,589 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,589 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:31,696 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,697 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 2
+2021-03-17 10:40:31,697 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:31,697 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,698 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,698 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,699 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:31,794 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,794 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 3
+2021-03-17 10:40:31,795 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:31,795 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,795 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,795 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,796 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:31,895 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,895 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 4
+2021-03-17 10:40:31,895 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:31,896 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,896 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,896 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,896 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:31,995 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:31,995 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 5
+2021-03-17 10:40:31,996 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-17 10:40:31,996 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:31,996 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:31,996 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:31,997 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:32,095 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:32,095 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-17 10:40:32,096 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:32,096 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:32,096 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:32,096 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:32,097 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:32,196 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:32,196 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-17 10:40:32,196 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:32,196 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:32,196 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:32,197 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:32,197 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:32,197 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:32,198 [6_OMP_agent_code] DEBUG: Encountered event(s) 'WAITED', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:32,198 [6_OMP_agent_code] INFO: Awarded -20.7 for events WAITED, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:32,232 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.035s.
+2021-03-17 10:40:32,605 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:32,605 [6_OMP_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-17 10:40:32,605 [6_OMP_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-17 10:40:32,608 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-17 10:40:32,608 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:32,608 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:32,609 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:32,705 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:32,705 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 2
+2021-03-17 10:40:32,705 [6_OMP_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-17 10:40:32,706 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:32,706 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:32,706 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:32,706 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:32,805 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:32,805 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-17 10:40:32,806 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:32,806 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:32,806 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:32,806 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:32,807 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:32,911 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:32,911 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 4
+2021-03-17 10:40:32,914 [6_OMP_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-17 10:40:32,915 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-17 10:40:32,915 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:32,915 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:32,915 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:33,011 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:33,011 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 5
+2021-03-17 10:40:33,012 [6_OMP_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-17 10:40:33,012 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:33,012 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:33,012 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:33,013 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:33,112 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:33,112 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-17 10:40:33,112 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:33,112 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:33,113 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:33,113 [6_OMP_agent_code] DEBUG: Choosing action purely at random.
+2021-03-17 10:40:33,113 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-17 10:40:33,216 [6_OMP_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-17 10:40:33,216 [6_OMP_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-17 10:40:33,217 [6_OMP_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-17 10:40:33,217 [6_OMP_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-17 10:40:33,217 [6_OMP_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-17 10:40:33,217 [6_OMP_agent_code] DEBUG: Querying model for action.
+2021-03-17 10:40:33,218 [6_OMP_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-17 10:40:33,218 [6_OMP_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-17 10:40:33,218 [6_OMP_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-17 10:40:33,219 [6_OMP_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-17 10:40:33,247 [6_OMP_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.029s.

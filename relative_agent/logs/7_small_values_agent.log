@@ -1,0 +1,285 @@
+2021-03-26 19:05:10,316 [7_small_values_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-26 19:05:10,316 [7_small_values_agent_code] INFO: Loading model from saved state.
+2021-03-26 19:05:10,316 [7_small_values_agent_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-26 19:05:10,418 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:10,418 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:10,419 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:10,518 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:10,519 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:10,519 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:10,619 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:10,619 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:10,620 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:10,719 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:10,719 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:10,720 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:10,820 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:10,820 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:10,821 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:10,920 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:10,921 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:10,921 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:11,426 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:11,427 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:11,427 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:11,527 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:11,527 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:11,528 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:11,627 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:11,627 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:11,628 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:11,732 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:11,732 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:11,733 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:11,832 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:11,833 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:11,833 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:11,933 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:11,933 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:11,934 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,033 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,043 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,044 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,134 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,134 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,135 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,234 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,234 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,235 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,335 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,335 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,335 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,435 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,435 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,436 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,535 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,535 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,536 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,635 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,636 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,636 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,744 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,744 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,745 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:12,841 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:12,841 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:12,842 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:13,547 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:13,547 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:13,548 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:13,648 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:13,648 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:13,648 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:13,748 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:13,748 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:13,748 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:13,848 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:13,848 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:13,849 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:13,948 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:13,948 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:13,949 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,048 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,048 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,049 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,153 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,153 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,154 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,254 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,254 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,255 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,354 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,354 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,355 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,555 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,555 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,555 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,655 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,655 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,656 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,756 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,756 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,756 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,861 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,861 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,862 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:14,961 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:14,961 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:14,962 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,062 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,062 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,062 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,162 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,162 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,163 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,262 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,263 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,263 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,363 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,363 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,364 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,463 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,463 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,464 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,563 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,563 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,564 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,663 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,663 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,664 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,764 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,764 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,764 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,864 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,864 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,865 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:15,964 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:15,965 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:15,965 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,070 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,070 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,071 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,165 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,165 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,166 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,266 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,266 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,267 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,374 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,375 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,375 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,472 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,472 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,473 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,572 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,573 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,573 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,675 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,675 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,676 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,775 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,775 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,776 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:16,875 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:16,875 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:16,876 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:17,181 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:17,181 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:17,182 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:17,281 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:17,282 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:17,286 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.005s.
+2021-03-26 19:05:17,382 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:17,382 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:17,383 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:17,482 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:17,482 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:17,483 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:17,586 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:17,586 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:17,587 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,087 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,087 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,088 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,187 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,187 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,188 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,288 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,288 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,288 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,388 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,388 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,389 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,488 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,489 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,489 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,588 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,589 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,589 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:18,989 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:18,989 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:18,990 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:19,089 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:19,089 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:19,090 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:19,189 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:19,189 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:19,190 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:19,290 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:19,290 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:19,290 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:19,390 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:19,390 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:19,391 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:19,800 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:19,800 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:19,801 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:19,900 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:19,900 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:19,901 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:20,001 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:20,001 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:20,002 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:20,104 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:20,104 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:20,105 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:20,205 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:20,205 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:20,205 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:20,711 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:20,711 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:20,712 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:20,806 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:20,806 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:20,807 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:20,906 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:20,906 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:20,907 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,012 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,012 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,012 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,112 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,112 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,113 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,213 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,213 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,213 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,313 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,313 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,314 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,413 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,414 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,414 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,514 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,514 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,515 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,620 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,620 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,621 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,720 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,720 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,721 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,820 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,820 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,821 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:21,920 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:21,920 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:21,921 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:22,020 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:22,020 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:22,021 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:22,120 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:22,120 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:22,121 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:22,220 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:22,225 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:22,226 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:22,321 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:22,321 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:22,321 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:22,421 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:22,421 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:22,422 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-26 19:05:22,521 [7_small_values_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-26 19:05:22,521 [7_small_values_agent_code] DEBUG: Querying model for action.
+2021-03-26 19:05:22,522 [7_small_values_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.

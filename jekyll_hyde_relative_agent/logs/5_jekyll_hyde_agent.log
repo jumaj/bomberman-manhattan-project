@@ -1,0 +1,880 @@
+2021-03-16 16:08:21,930 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-16 16:08:21,931 [5_jekyll_hyde_agent_code] INFO: Loading model from saved state.
+2021-03-16 16:08:21,931 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-16 16:08:21,931 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-16 16:08:21,931 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#setup_training in 0.000s.
+2021-03-16 16:08:22,032 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,032 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:22,033 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:22,033 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:22,033 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,034 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,034 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,133 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,133 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2021-03-16 16:08:22,133 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:22,133 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,134 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,134 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,134 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,233 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,234 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 3
+2021-03-16 16:08:22,234 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:22,234 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,235 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,235 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,236 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,334 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,335 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 4
+2021-03-16 16:08:22,335 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:22,335 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,335 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,336 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,336 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,434 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,434 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 5
+2021-03-16 16:08:22,435 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:22,435 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,435 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,435 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,436 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,534 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,534 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-16 16:08:22,535 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:22,535 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,535 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,536 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,536 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,634 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,635 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-16 16:08:22,635 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:22,635 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,636 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,636 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,636 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,735 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,735 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 8
+2021-03-16 16:08:22,735 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:22,735 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,736 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,736 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,737 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,840 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,840 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 9
+2021-03-16 16:08:22,840 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:22,840 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,841 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,841 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,842 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:22,940 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:22,940 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-16 16:08:22,941 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:22,941 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:22,941 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:22,941 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:22,942 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,041 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,041 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-16 16:08:23,042 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:23,042 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,042 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,042 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,043 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,141 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,141 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 12
+2021-03-16 16:08:23,141 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:23,142 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,142 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,142 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,143 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,241 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,241 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 13
+2021-03-16 16:08:23,242 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:23,242 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,242 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,242 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,243 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,342 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,342 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2021-03-16 16:08:23,342 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:23,342 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,343 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,343 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,344 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,443 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,443 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 15
+2021-03-16 16:08:23,443 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:23,443 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,444 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,444 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,444 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,542 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,542 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 16
+2021-03-16 16:08:23,543 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:23,543 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,543 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,544 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,544 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,643 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,643 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 17
+2021-03-16 16:08:23,643 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:23,644 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,644 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,644 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,644 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,743 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,743 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 18
+2021-03-16 16:08:23,744 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:23,744 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,744 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,745 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,745 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,844 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,844 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 19
+2021-03-16 16:08:23,844 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:23,844 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,845 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,845 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,845 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:23,944 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:23,944 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2021-03-16 16:08:23,945 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:23,945 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:23,945 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:23,945 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:23,946 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:24,045 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:24,045 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 21
+2021-03-16 16:08:24,045 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:24,046 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:24,046 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:24,046 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:24,047 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:24,048 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:24,048 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'WAITED', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:24,048 [5_jekyll_hyde_agent_code] INFO: Awarded -30.7 for events WAITED, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:24,093 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.045s.
+2021-03-16 16:08:24,646 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:24,646 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:24,646 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:24,646 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:24,647 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:24,647 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:24,647 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:24,746 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:24,746 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 2
+2021-03-16 16:08:24,747 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:24,747 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:24,747 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:24,747 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:24,747 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:24,847 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:24,847 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-16 16:08:24,847 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:24,847 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:24,847 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:24,848 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:24,848 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 4
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:24,947 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:25,047 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,047 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 5
+2021-03-16 16:08:25,048 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:25,048 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:25,048 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,048 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:25,048 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:25,148 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,148 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-16 16:08:25,148 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:25,148 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:25,148 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,148 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:25,149 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:25,248 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,248 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-16 16:08:25,248 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:25,248 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:25,248 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,248 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:25,249 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:25,249 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:25,249 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:25,249 [5_jekyll_hyde_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:25,257 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.008s.
+2021-03-16 16:08:25,549 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,549 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:25,549 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:25,550 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:25,550 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,550 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:25,550 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2021-03-16 16:08:25,552 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (14, 1)
+2021-03-16 16:08:25,552 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-16 16:08:25,649 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,649 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 2
+2021-03-16 16:08:25,650 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:25,650 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:25,650 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,650 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:25,650 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2021-03-16 16:08:25,651 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (14, 1)
+2021-03-16 16:08:25,652 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-16 16:08:25,749 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,749 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 3
+2021-03-16 16:08:25,750 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:25,750 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:25,750 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,750 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:25,750 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['RIGHT']
+2021-03-16 16:08:25,753 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (15, 4)
+2021-03-16 16:08:25,753 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-16 16:08:25,850 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,850 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 4
+2021-03-16 16:08:25,851 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:25,851 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:25,851 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,851 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:25,851 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2021-03-16 16:08:25,853 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (15, 4)
+2021-03-16 16:08:25,853 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-16 16:08:25,950 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:25,950 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 5
+2021-03-16 16:08:25,951 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:25,951 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:25,951 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:25,951 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:25,951 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2021-03-16 16:08:25,954 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (15, 4)
+2021-03-16 16:08:25,954 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-16 16:08:26,050 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,050 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 6
+2021-03-16 16:08:26,051 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:26,051 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,051 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,051 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,051 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2021-03-16 16:08:26,053 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (15, 4)
+2021-03-16 16:08:26,053 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-16 16:08:26,151 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,151 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'COIN_FOUND' in step 7
+2021-03-16 16:08:26,151 [5_jekyll_hyde_agent_code] INFO: Awarded 29.9 for events MOVED_DOWN, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, COIN_FOUND, PLACEHOLDER
+2021-03-16 16:08:26,151 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,152 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,152 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,152 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2021-03-16 16:08:26,153 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (15, 4)
+2021-03-16 16:08:26,153 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-16 16:08:26,251 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,251 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 8
+2021-03-16 16:08:26,252 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:26,252 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,252 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,252 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,252 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP']
+2021-03-16 16:08:26,256 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,256 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-16 16:08:26,351 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,351 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 9
+2021-03-16 16:08:26,352 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:26,352 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,352 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,352 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,352 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2021-03-16 16:08:26,356 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,356 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-16 16:08:26,451 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,451 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 10
+2021-03-16 16:08:26,452 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:26,452 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,452 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,452 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,453 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2021-03-16 16:08:26,456 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,456 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-16 16:08:26,552 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,552 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 11
+2021-03-16 16:08:26,553 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:26,553 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,553 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,553 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,553 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['LEFT']
+2021-03-16 16:08:26,556 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,557 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-16 16:08:26,652 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,652 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED' in step 12
+2021-03-16 16:08:26,653 [5_jekyll_hyde_agent_code] INFO: Awarded 24.9 for events MOVED_LEFT, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, PLACEHOLDER
+2021-03-16 16:08:26,653 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,653 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,653 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,654 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2021-03-16 16:08:26,656 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,656 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-16 16:08:26,752 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,753 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 13
+2021-03-16 16:08:26,753 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:26,753 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,753 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,753 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,754 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2021-03-16 16:08:26,756 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,756 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-16 16:08:26,853 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,853 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 14
+2021-03-16 16:08:26,854 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:26,854 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,854 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,854 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,855 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2021-03-16 16:08:26,856 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (13, 2)
+2021-03-16 16:08:26,856 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-16 16:08:26,954 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:26,954 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 15
+2021-03-16 16:08:26,955 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:26,955 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:26,955 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:26,955 [5_jekyll_hyde_agent_code] INFO: Picking action according to rule set
+2021-03-16 16:08:26,956 [5_jekyll_hyde_agent_code] DEBUG: Valid actions: ['UP']
+2021-03-16 16:08:26,959 [5_jekyll_hyde_agent_code] DEBUG: Suitable target found at (11, 1)
+2021-03-16 16:08:26,959 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-16 16:08:27,054 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,054 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 16
+2021-03-16 16:08:27,055 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:27,055 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,055 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,055 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,056 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,154 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,154 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2021-03-16 16:08:27,155 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:27,155 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,155 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,156 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,156 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,254 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,254 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 18
+2021-03-16 16:08:27,255 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:27,255 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,255 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,256 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,256 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,355 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,355 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED' in step 19
+2021-03-16 16:08:27,355 [5_jekyll_hyde_agent_code] INFO: Awarded 24.9 for events MOVED_LEFT, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, PLACEHOLDER
+2021-03-16 16:08:27,356 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,356 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,356 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,357 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,460 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,460 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'COIN_COLLECTED' in step 20
+2021-03-16 16:08:27,461 [5_jekyll_hyde_agent_code] INFO: Awarded 19.9 for events MOVED_LEFT, COIN_COLLECTED, PLACEHOLDER
+2021-03-16 16:08:27,461 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,462 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,463 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,463 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,561 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,561 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 21
+2021-03-16 16:08:27,561 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:27,561 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,562 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,562 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,563 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,661 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,661 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 22
+2021-03-16 16:08:27,662 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:27,662 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,662 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,663 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,663 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,766 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,766 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 23
+2021-03-16 16:08:27,767 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:27,767 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,767 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,768 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,768 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,866 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,866 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 24
+2021-03-16 16:08:27,867 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:27,867 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,867 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,867 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,868 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:27,966 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:27,966 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2021-03-16 16:08:27,967 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:27,967 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:27,967 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:27,968 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:27,969 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:28,071 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:28,071 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 26
+2021-03-16 16:08:28,072 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:28,072 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:28,073 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:28,073 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:28,074 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:28,172 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:28,172 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2021-03-16 16:08:28,173 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:28,173 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:28,173 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:28,173 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:28,174 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:28,175 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:28,175 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'MOVED_LEFT', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:28,175 [5_jekyll_hyde_agent_code] INFO: Awarded -10.100000000000001 for events MOVED_LEFT, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:28,188 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.014s.
+2021-03-16 16:08:28,672 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:28,672 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:28,673 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:28,673 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:28,673 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:28,673 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:28,673 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:28,773 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:28,773 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 2
+2021-03-16 16:08:28,773 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:28,773 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:28,774 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:28,774 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:28,775 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:28,873 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:28,873 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-16 16:08:28,873 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:28,873 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:28,873 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:28,873 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:28,874 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:28,973 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:28,973 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-16 16:08:28,974 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:28,974 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:28,974 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:28,974 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:28,974 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:29,073 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,074 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 5
+2021-03-16 16:08:29,074 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:29,074 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:29,074 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,074 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,074 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:29,176 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,176 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 6
+2021-03-16 16:08:29,176 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:29,176 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:29,176 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,177 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,177 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:29,276 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,276 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-16 16:08:29,277 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:29,277 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:29,277 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,277 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,277 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:29,376 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,376 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 8
+2021-03-16 16:08:29,377 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:29,377 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:29,377 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,377 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,378 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:29,481 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,481 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 9
+2021-03-16 16:08:29,482 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:29,482 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:29,482 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,482 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,483 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:29,581 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,581 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-16 16:08:29,582 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:29,582 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:29,582 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,583 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,583 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:29,681 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,686 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-16 16:08:29,686 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:29,686 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:29,687 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,687 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,688 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:29,781 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:29,782 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 12
+2021-03-16 16:08:29,782 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:29,782 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:29,782 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:29,783 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:29,783 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:29,784 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:29,784 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'MOVED_DOWN', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:29,784 [5_jekyll_hyde_agent_code] INFO: Awarded -10.100000000000001 for events MOVED_DOWN, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:29,797 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.013s.
+2021-03-16 16:08:30,182 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,182 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:30,182 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:30,182 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:30,182 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,183 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,183 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,282 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,283 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 2
+2021-03-16 16:08:30,283 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:30,283 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:30,283 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,283 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,283 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,383 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,383 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 3
+2021-03-16 16:08:30,383 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:30,383 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:30,383 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,384 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,384 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,483 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,483 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 4
+2021-03-16 16:08:30,483 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:30,483 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:30,483 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,484 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,484 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,583 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,583 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-16 16:08:30,584 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:30,584 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:30,584 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,584 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,584 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,683 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,683 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 6
+2021-03-16 16:08:30,684 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:30,684 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:30,684 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,684 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,684 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,784 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:30,784 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 7
+2021-03-16 16:08:30,784 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:30,785 [5_jekyll_hyde_agent_code] INFO: Awarded -15 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:30,796 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.010s.
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,085 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-16 16:08:31,185 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,185 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 2
+2021-03-16 16:08:31,186 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:31,186 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,186 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,186 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,187 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,285 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,285 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 3
+2021-03-16 16:08:31,285 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:31,286 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,286 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,286 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,287 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,385 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,385 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 4
+2021-03-16 16:08:31,386 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:31,386 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,387 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,387 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,387 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,486 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,486 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-16 16:08:31,487 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:31,487 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,487 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,487 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,488 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,586 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,586 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 6
+2021-03-16 16:08:31,587 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:31,587 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,587 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,587 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,588 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,686 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,686 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 7
+2021-03-16 16:08:31,687 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:31,687 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,687 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,687 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,688 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,787 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,787 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 8
+2021-03-16 16:08:31,787 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:31,787 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,788 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,788 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,789 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,891 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,891 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 9
+2021-03-16 16:08:31,891 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:31,892 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,892 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,892 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,893 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:31,991 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:31,991 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-16 16:08:31,992 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:31,992 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:31,992 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:31,993 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:31,993 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,091 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,091 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-16 16:08:32,092 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:32,092 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:32,092 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,093 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,093 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,197 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,197 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 12
+2021-03-16 16:08:32,197 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_UP, PLACEHOLDER
+2021-03-16 16:08:32,198 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:32,198 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,198 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,199 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,200 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:32,200 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:32,200 [5_jekyll_hyde_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:32,216 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.017s.
+2021-03-16 16:08:32,497 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,498 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:32,498 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:32,498 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:32,498 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,499 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,499 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,597 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,598 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2021-03-16 16:08:32,598 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:32,598 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:32,598 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,599 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,599 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,698 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,698 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 3
+2021-03-16 16:08:32,699 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:32,699 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:32,699 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,700 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,700 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,799 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,799 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-16 16:08:32,799 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:32,799 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:32,799 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,800 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,800 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:32,899 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:32,899 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 5
+2021-03-16 16:08:32,899 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:32,899 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:32,900 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:32,900 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:32,900 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,007 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,008 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 6
+2021-03-16 16:08:33,008 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:33,008 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:33,008 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,009 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,009 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,105 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,105 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2021-03-16 16:08:33,105 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:33,106 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:33,106 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,106 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,107 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,205 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,205 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-16 16:08:33,206 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:33,206 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:33,206 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,206 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,207 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,305 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,306 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 9
+2021-03-16 16:08:33,306 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:33,306 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:33,306 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,307 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,307 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,308 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:33,308 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:33,314 [5_jekyll_hyde_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:33,333 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.025s.
+2021-03-16 16:08:33,707 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,707 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:33,707 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:33,707 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:33,707 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,708 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,708 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,807 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,807 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 2
+2021-03-16 16:08:33,807 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:33,807 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:33,808 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,808 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,808 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:33,907 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:33,907 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 3
+2021-03-16 16:08:33,908 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:33,908 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:33,908 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:33,908 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:33,908 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,007 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,007 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-16 16:08:34,008 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:34,008 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:34,008 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,008 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,009 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,108 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,108 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 5
+2021-03-16 16:08:34,108 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:34,108 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:34,108 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,108 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,109 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,208 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,208 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2021-03-16 16:08:34,208 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:34,208 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:34,209 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,209 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,209 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,210 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:34,210 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:34,210 [5_jekyll_hyde_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:34,224 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.014s.
+2021-03-16 16:08:34,508 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,509 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:34,509 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:34,509 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:34,509 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,509 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,510 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,609 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,609 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'WAITED' in step 2
+2021-03-16 16:08:34,610 [5_jekyll_hyde_agent_code] INFO: Awarded -0.7 for events WAITED, PLACEHOLDER
+2021-03-16 16:08:34,610 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:34,610 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,611 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,611 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,710 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,710 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 3
+2021-03-16 16:08:34,711 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2021-03-16 16:08:34,711 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:34,711 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,711 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,712 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,810 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,810 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-16 16:08:34,810 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:34,811 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:34,811 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,811 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,811 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:34,910 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:34,910 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-16 16:08:34,911 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:34,911 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:34,911 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:34,912 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:34,912 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:35,010 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:35,011 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 6
+2021-03-16 16:08:35,011 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:35,011 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:35,011 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:35,012 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:35,012 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:35,111 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:35,111 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 7
+2021-03-16 16:08:35,112 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2021-03-16 16:08:35,112 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:35,112 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:35,112 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:35,113 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:35,211 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:35,212 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-16 16:08:35,212 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:35,212 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:35,212 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:35,213 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:35,213 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:35,312 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:35,312 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 9
+2021-03-16 16:08:35,312 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:35,313 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:35,313 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:35,313 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:35,314 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:35,314 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:35,314 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:35,315 [5_jekyll_hyde_agent_code] INFO: Awarded -35 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:35,337 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.023s.
+2021-03-16 16:08:35,816 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:35,817 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-16 16:08:35,817 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events PLACEHOLDER
+2021-03-16 16:08:35,817 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.000s.
+2021-03-16 16:08:35,817 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:35,818 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:35,818 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:35,917 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:35,917 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 2
+2021-03-16 16:08:35,917 [5_jekyll_hyde_agent_code] INFO: Awarded 0 for events BOMB_DROPPED, PLACEHOLDER
+2021-03-16 16:08:35,917 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:35,917 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:35,918 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:35,919 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:36,017 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:36,017 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 3
+2021-03-16 16:08:36,018 [5_jekyll_hyde_agent_code] INFO: Awarded -0.1 for events MOVED_DOWN, PLACEHOLDER
+2021-03-16 16:08:36,018 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:36,018 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:36,019 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:36,019 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:36,117 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:36,117 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-16 16:08:36,118 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:36,118 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:36,118 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:36,119 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:36,119 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:36,218 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-16 16:08:36,218 [5_jekyll_hyde_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-16 16:08:36,218 [5_jekyll_hyde_agent_code] INFO: Awarded -5 for events INVALID_ACTION, PLACEHOLDER
+2021-03-16 16:08:36,219 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-16 16:08:36,219 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-16 16:08:36,219 [5_jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-16 16:08:36,220 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-16 16:08:36,220 [5_jekyll_hyde_agent_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-16 16:08:36,220 [5_jekyll_hyde_agent_code] DEBUG: Encountered event(s) 'MOVED_DOWN', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2021-03-16 16:08:36,221 [5_jekyll_hyde_agent_code] INFO: Awarded -30.1 for events MOVED_DOWN, BOMB_EXPLODED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2021-03-16 16:08:36,233 [5_jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#end_of_round in 0.013s.
