@@ -1,0 +1,117 @@
+2021-03-28 16:42:39,050 [target_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-28 16:42:39,050 [target_agent_code] INFO: Loading model from saved state.
+2021-03-28 16:42:39,050 [target_agent_wrapper] DEBUG: Got result from callback#setup in 0.001s.
+2021-03-28 16:42:39,050 [target_agent_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-28 16:42:39,051 [target_agent_wrapper] DEBUG: Got result from callback#setup_training in 0.000s.
+2021-03-28 16:42:39,538 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:39,538 [target_agent_code] DEBUG: Encountered game event(s)  in step 1
+2021-03-28 16:42:39,539 [target_agent_code] INFO: Awarded -0.1 for events PLACEHOLDER
+2021-03-28 16:42:39,540 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:39,542 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:39,543 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:39,544 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:39,638 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:39,638 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 2
+2021-03-28 16:42:39,639 [target_agent_code] INFO: Awarded -0.30000000000000004 for events MOVED_UP, PLACEHOLDER
+2021-03-28 16:42:39,639 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 16:42:39,642 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:39,642 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:39,643 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:39,738 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:39,738 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 3
+2021-03-28 16:42:39,739 [target_agent_code] INFO: Awarded -0.30000000000000004 for events MOVED_UP, PLACEHOLDER
+2021-03-28 16:42:39,739 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 16:42:39,742 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:39,742 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:39,742 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:39,838 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:39,838 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-28 16:42:39,840 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:39,840 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:39,843 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:39,844 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:39,845 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:39,938 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:39,938 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2021-03-28 16:42:39,939 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:39,939 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 16:42:39,942 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:39,942 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:39,942 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,038 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,038 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 6
+2021-03-28 16:42:40,040 [target_agent_code] INFO: Awarded -0.30000000000000004 for events MOVED_UP, PLACEHOLDER
+2021-03-28 16:42:40,040 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-28 16:42:40,041 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,041 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,042 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,138 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,138 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 7
+2021-03-28 16:42:40,140 [target_agent_code] INFO: Awarded -0.30000000000000004 for events MOVED_UP, PLACEHOLDER
+2021-03-28 16:42:40,140 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:40,143 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,143 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,144 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,238 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,239 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 8
+2021-03-28 16:42:40,241 [target_agent_code] INFO: Awarded 19.7 for events MOVED_UP, COIN_COLLECTED, PLACEHOLDER
+2021-03-28 16:42:40,241 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-28 16:42:40,243 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,243 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,244 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,339 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,339 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 9
+2021-03-28 16:42:40,341 [target_agent_code] INFO: Awarded -0.30000000000000004 for events MOVED_UP, PLACEHOLDER
+2021-03-28 16:42:40,341 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-28 16:42:40,351 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,351 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,352 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,439 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,439 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-28 16:42:40,441 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:40,441 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:40,444 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,444 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,445 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,539 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,539 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2021-03-28 16:42:40,542 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:40,543 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-28 16:42:40,544 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,544 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,545 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,639 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,639 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2021-03-28 16:42:40,641 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:40,641 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:40,650 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,651 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,651 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,739 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,739 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 13
+2021-03-28 16:42:40,741 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:40,741 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:40,742 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,742 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,743 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,839 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,839 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2021-03-28 16:42:40,843 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:40,844 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-28 16:42:40,845 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,845 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,846 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:40,939 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:40,939 [target_agent_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 15
+2021-03-28 16:42:40,941 [target_agent_code] INFO: Awarded -10.1 for events INVALID_ACTION, PLACEHOLDER
+2021-03-28 16:42:40,941 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-28 16:42:40,942 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:40,942 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:40,944 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-28 16:42:41,039 [target_agent_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-28 16:42:41,040 [target_agent_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 16
+2021-03-28 16:42:41,043 [target_agent_code] INFO: Awarded -0.30000000000000004 for events MOVED_UP, PLACEHOLDER
+2021-03-28 16:42:41,043 [target_agent_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-28 16:42:41,044 [target_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-28 16:42:41,044 [target_agent_code] DEBUG: Querying model for action.
+2021-03-28 16:42:41,045 [target_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.

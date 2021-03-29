@@ -1,0 +1,204 @@
+2021-03-23 17:02:18,898 [jekyll_hyde_agent_wrapper] DEBUG: Calling setup on callback.
+2021-03-23 17:02:18,899 [jekyll_hyde_agent_code] INFO: Loading model from saved state.
+2021-03-23 17:02:18,900 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#setup in 0.001s.
+2021-03-23 17:02:19,002 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:19,002 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:19,003 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:19,102 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:19,102 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:19,103 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:19,202 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:19,202 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:19,203 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:19,302 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:19,302 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:19,303 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:19,402 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:19,402 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:19,403 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:19,903 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:19,903 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:19,904 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:20,003 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:20,003 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:20,004 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:20,103 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:20,104 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:20,104 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:20,205 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:20,205 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:20,206 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:20,304 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:20,305 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:20,306 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:20,404 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:20,405 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:20,405 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:20,909 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:20,909 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:20,909 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:21,009 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:21,009 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:21,010 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:21,109 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:21,109 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:21,110 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:21,209 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:21,209 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:21,209 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:21,309 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:21,309 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:21,310 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:21,410 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:21,410 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:21,411 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:22,010 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:22,011 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:22,011 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:22,124 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:22,124 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:22,125 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:22,216 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:22,216 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:22,216 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:22,316 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:22,316 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:22,317 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:22,416 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:22,416 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:22,425 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.009s.
+2021-03-23 17:02:22,516 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:22,516 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:22,517 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,017 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,018 [jekyll_hyde_agent_code] DEBUG: Choosing action purely at random.
+2021-03-23 17:02:23,018 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-23 17:02:23,117 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,117 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,118 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,217 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,217 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,218 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,318 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,318 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,320 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.002s.
+2021-03-23 17:02:23,417 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,417 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,418 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,518 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,518 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,519 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,618 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,618 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,619 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,718 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,718 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,719 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:23,818 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:23,818 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:23,819 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:24,324 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:24,324 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:24,325 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:24,425 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:24,425 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:24,426 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:24,524 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:24,524 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:24,533 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.009s.
+2021-03-23 17:02:24,624 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:24,625 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:24,625 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:24,725 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:24,725 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:24,725 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:24,830 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:24,832 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:24,833 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:25,427 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:25,427 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:25,427 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:25,526 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:25,526 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:25,527 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:25,626 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:25,626 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:25,627 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:25,726 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:25,726 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:25,727 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:25,826 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:25,826 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:25,827 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:25,926 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:25,927 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:25,927 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:26,027 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:26,027 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:26,028 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:26,127 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:26,127 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:26,128 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:26,231 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:26,231 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:26,232 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:26,331 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:26,331 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:26,332 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:26,431 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:26,431 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:26,432 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:26,944 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:26,945 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:26,946 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:27,038 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:27,038 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:27,038 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:27,137 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:27,138 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:27,139 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:27,250 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:27,251 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:27,252 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:27,343 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:27,343 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:27,343 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:27,443 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:27,443 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:27,444 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:27,543 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:27,543 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:27,544 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:28,044 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:28,044 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:28,045 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:28,145 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:28,145 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:28,147 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:28,245 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:28,245 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:28,246 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:28,345 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:28,345 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:28,346 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:28,445 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:28,445 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:28,446 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:28,546 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:28,546 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:28,548 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:29,146 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:29,146 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:29,147 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:29,251 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:29,251 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:29,252 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:29,351 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:29,352 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:29,352 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:29,451 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:29,451 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:29,452 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-23 17:02:29,560 [jekyll_hyde_agent_wrapper] DEBUG: Calling act on callback.
+2021-03-23 17:02:29,560 [jekyll_hyde_agent_code] DEBUG: Querying model for action.
+2021-03-23 17:02:29,561 [jekyll_hyde_agent_wrapper] DEBUG: Got result from callback#act in 0.001s.
